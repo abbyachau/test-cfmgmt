@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 set -e
-cd config-repo
+cd test-cfmgmt
 cf-mgmt $CF_MGMT_COMMAND
